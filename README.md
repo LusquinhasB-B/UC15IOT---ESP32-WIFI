@@ -26,9 +26,7 @@
 </ul>
 <br>
 <h2> :page_with_curl: INTRODUÇÃO</h2>
-    <p> O objetivo deste exercício é consolidar os conhecimentos adquiridos sobre conectividade WiFi no ESP32, analisando redes disponíveis,</p> 
-    <p>conectando-se automaticamente à melhor rede aberta e validando a conectividade com a internet via ping. Os códigos foram realizados nas </p> 
-    <p>plataformas <b>Arduino IDE</b> e <b>Visual Studio Code</b> utilizado a extensão <b>Plataform IO.</b> </p>
+    <p> O objetivo deste exercício é consolidar os conhecimentos adquiridos sobre conectividade WiFi no ESP32, analisando redes disponíveis, conectando-se automaticamente à melhor rede aberta e validando a conectividade com a internet via ping. Os códigos foram realizados nas plataformas <b>Arduino IDE</b> e <b>Visual Studio Code</b> utilizado a extensão <b>Plataform IO.</b> </p>
 <br>
 
   <h2> :bookmark_tabs: PRÁTICAS - QUESTÕES</h2>
